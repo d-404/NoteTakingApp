@@ -45,6 +45,7 @@ function App() {
           <i className="fa fa-plus"></i> Add
         </button>
       </div>
+
       <div className="note-list">
         {notes.slice().reverse().map((note) => (
           <div key={note.id} className="note">
