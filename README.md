@@ -12,5 +12,5 @@ A basic note-taking app built using React and JSX. This app allows you to create
 
 ## Getting Started
 
--npm install
--npx start
+- npm install
+- npx start
