@@ -12,18 +12,5 @@ A basic note-taking app built using React and JSX. This app allows you to create
 
 ## Getting Started
 
-npm install
-npx start
-
-note-taking-app/
-  ├── src/
-  │   ├── App.jsx            # Main component containing the app logic
-  │   ├── Note.jsx           # Component for individual notes
-  │   ├── App.css            # Styles for the app
-  │   └── ...                # Other project files
-  ├── public/
-  │   └── index.html         # HTML template
-  ├── package.json           # Project dependencies and scripts
-  ├── README.md              # Project documentation (you are here)
-  └── ...                    # Other project files
-
+-npm install
+-npx start
