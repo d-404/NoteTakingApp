@@ -28,7 +28,7 @@ function App() {
     // </div>
 
     <div className="App">
-      <h1>Note Taking App</h1>
+      <h1>Note-Taking App</h1>
       <h3>Write your notes here!</h3>
       <NewNoteForm addNote={addNote} />
       <NoteList notes={notes} deleteNote={deleteNote} updateNote={updateNote} />
