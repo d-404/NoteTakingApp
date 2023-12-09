@@ -21,6 +21,12 @@ function App() {
   };
 
   return (
+    // <div className="App">
+    //   <h1>Note-Taking App</h1>
+    //   <NewNoteForm addNote={addNote} />
+    //   <NoteList notes={notes} deleteNote={deleteNote} updateNote={updateNote} />
+    // </div>
+
     <div className="App">
       <h1>Note-Taking App</h1>
       <NewNoteForm addNote={addNote} />
