@@ -17,7 +17,7 @@ A basic note-taking app built using React and JSX. This app allows you to create
 
 # Git Repository README
 
-This repository contains awesome stuff! Follow the steps below to clone the repository and resolve any potential conflicts.
+Follow the steps below to clone the repository and resolve any potential conflicts.
 
 ## Cloning the Repository
 
@@ -32,17 +32,4 @@ This repository contains awesome stuff! Follow the steps below to clone the repo
 3. git remote -v
 
 4. git pull
-
-5.
-<<<<<<< HEAD
-// Your local changes
-=======
-// Changes from the remote repository
->>>>>>> branch-name
-
-6. git add conflicted-file.txt
-
-7. git merge --continue
-
-8. git push
 
