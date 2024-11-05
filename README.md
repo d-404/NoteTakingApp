@@ -17,7 +17,7 @@ A basic note-taking app built using React and JSX. This app allows you to create
 
 # Git Repository README
 
-Follow the steps below to clone the repository and resolve any potential conflicts.
+Follow the steps below to clone the repository.
 
 ## Cloning the Repository
 
